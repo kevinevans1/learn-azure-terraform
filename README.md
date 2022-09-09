@@ -40,7 +40,7 @@ Welcome to the NETRUNNER collection of Azure Terraform learning resources! Pleas
 
 
 
-## CI\CD Bicep Learning Path
+## CI\CD Azure Terraform Learning Path
 
 ### Azure DevOps Deployment
 - [Automating infrastructure deployments in the Cloud with Terraform and Azure Pipelines](https://www.azuredevopslabs.com/labs/vstsextend/terraform/)
