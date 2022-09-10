@@ -64,11 +64,13 @@ Welcome to the NETRUNNER collection of Azure Terraform learning resources! Pleas
 - [Deploying Azure Landing Zones Using Terraform](https://docs.microsoft.com/en-us/shows/azure-enablement/deploying-azure-landing-zones-using-terraform)
 
 
+
 ## Community Video Resources
 - [Azure Terraform With Mark Gray (StreamingClouds)](https://www.youtube.com/watch?v=cev9_gzMbmE)
 - [Using Terraform With Azure (John Savill's Technical Training)](https://www.youtube.com/watch?v=JKVkblsp3cM)
 - [Learn Terrform With Azure (FreeCodeCamp)](https://www.youtube.com/watch?v=V53AHWun17s)
 - [Getting started with Terraform and Azure: Overview and Setup (Ciraltos)](https://www.youtube.com/watch?v=PD8OR4Tmjxo)
+- [Using Terraform with Azure DevOps (Microsoft Developer Youtube)](https://www.youtube.com/watch?v=PM2MBTP7_-A)
 
 ## Community Books
 - [Terraform: Up and Running (Yevgeniy Brikman))](https://www.amazon.ca/Terraform-Running-Writing-Infrastructure-Code/dp/1098116747/ref=sr_1_12?crid=34PSXJKKYBGCT&keywords=azure+terraform&qid=1662755112&sprefix=azure+terraform%2Caps%2C136&sr=8-12)
